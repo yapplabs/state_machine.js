@@ -1,0 +1,16 @@
+{
+  "name": "@yapplabs/state_machine.js",
+  "version": "1.0.0",
+  "description": "convert image paths to base64 strings",
+  "repository": "https://github.com/yapplabs/state_machine.js",
+  "main": "state_machine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Penner",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "keywords": [
+  ]
+}
