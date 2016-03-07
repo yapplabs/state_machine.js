@@ -1,7 +1,7 @@
 {
-  "name": "@yapplabs/state_machine.js",
+  "name": "yappie_state_machine.js",
   "version": "1.0.0",
-  "description": "convert image paths to base64 strings",
+  "description": "simple JS state machine, old school yappie style",
   "repository": "https://github.com/yapplabs/state_machine.js",
   "main": "state_machine.js",
   "scripts": {
